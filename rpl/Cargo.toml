@@ -1,0 +1,18 @@
+[package]
+name        = "rpl"
+version     = "0.1.0"
+authors     = ["Wil Thomason <wil.thomason@gmail.com>"]
+description = "Robot Planning Library"
+license     = "MIT"
+keywords    = ["planning", "robotics"]
+categories  = ["algorithms"]
+repository  = "https://github.com/wbthomason/rpl"
+readme      = "README.md"
+
+[dependencies]
+failure    = "^0.1.5"
+log        = "^0.4.6"
+num-traits = "^0.2.8"
+rand       = "^0.6.5"
+itertools  = "^0.8.0"
+nalgebra   = "^0.18.0"

@@ -1,0 +1,3 @@
+trait StateSpace {
+   type State;
+}
